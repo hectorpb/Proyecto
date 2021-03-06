@@ -1,0 +1,11 @@
+/*
+III.- GitHub.
+Dado la expansión de la empresa donde Ud trabaja, sumado a la modalidad de teletrabajo en ejecución, se necesita que los proyectos estén disponibles por medio de un repositorio remoto en GitHub.
+Para llevar a cabo esta tarea se pide:
+1.	Creación de cuenta.
+2.	Crear un proyecto y un archivo INFORMACION.
+3.	Agregar a miembros del equipo que trabajarán en el proyecto. El perfil para ellos será Maintainer, con la finalidad de puedan contribuir con el desarrollo del proyecto.
+4.	Crear un usuario con rol Reporter, quien realizará las revisiones de los códigos.
+5.	Solicitar a los miembros del equipo, clonar el repositorio creado, modificar el archivo INFORMACION y confirmar los cambios (subirlos), más un comentario acerca de los cambios realizados.
+6.	Realizar un copia del proyecto y realizar cambios en el archivo (usar folk)
+*/
